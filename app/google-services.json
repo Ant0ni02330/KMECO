@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220039634467",
+    "firebase_url": "https://authentication-46ea2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "authentication-46ea2",
+    "storage_bucket": "authentication-46ea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220039634467:android:5f141c03cdb30ce6001b96",
+        "android_client_info": {
+          "package_name": "com.example.kmeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220039634467-276l6rlnn50imor5caaggauegi8avdop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDusHOB6MTC2mWf6H0Me9qLnbbXzMMqRdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220039634467-276l6rlnn50imor5caaggauegi8avdop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
